@@ -38,6 +38,6 @@
 
 -------------------------
 
-- Fang Chen*, Cun-Qiang Miao and Galina V. Muratova, On convergence of MRQI and IMRQI methods for Hermitian egenvalue problems, Communications on Applied Mathematics and Computation, (2021).
+- Fang Chen*, Cun-Qiang Miao and Galina V. Muratova, On convergence of MRQI and IMRQI methods for Hermitian egenvalue problems, Communications on Applied Mathematics and Computation, 3(2021), 189–197.
 
 - Cun-Qiang Miao and Wen-Ting Wu*, On relaxed filtered Krylov subspace method for non-symmetric eigenvalue problems, Journal of Computational and Applied Mathematics, 398(2021).
